@@ -10,3 +10,4 @@ In this project, you see 10 cards with user info (this is dummy data fetched fro
 
 Hope you enjoy my first little react app!
 
+Here is the link to [robo-friends](https://zacharyck.github.io/robo-friends/)!
